@@ -23,13 +23,11 @@ The industry of battery-operated portable measurement instruments is pushing tow
 
 ![LDO_BlockDiagram JPG](https://user-images.githubusercontent.com/99383442/153451601-d845bbcd-10ef-410f-a578-f18d907baaf8.png)
 
-
                  Fig. 1 Classical topology of a CMOS LDO regulator. 
 
 
 
 It consists of a voltage reference Vref; an error amplifier (EA); a PMOS pass transistor as the pass element between the battery-voltage VBAT and the stable output voltage Vout; and a resistive feedback network Rfb1 – Rfb2. Any variation of the input voltage VBAT or the load current ILoad is sampled by the feedback network at Vfb; the error amplifier (EA) compares Vfb with the voltage reference Vref, generating a signal that is continuously driving the pass transistor gate to render a constant output voltage expressed as:
-
 
                                Vout = [1+ Rfb1/Rfb2] Vref
 
