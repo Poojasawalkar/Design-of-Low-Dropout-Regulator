@@ -5,7 +5,7 @@ A 130 nM CMOS low-dropout (LDO) Voltage Regulator is proposed in this work for b
 
 1. [Introduction](#Introduction)
 2. [Methodology](#Methodology)
-    - LDO Schematic(#LDO Schematic)  
+    - [LDO-Schematic](#LDO-Schematic)  
 
 
 
