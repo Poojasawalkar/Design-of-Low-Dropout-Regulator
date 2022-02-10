@@ -10,6 +10,7 @@ A 130 nM CMOS low-dropout (LDO) Voltage Regulator is proposed in this work for b
     - [Vin vs Vout waveforms](#Vin-vs-Vout-waveforms)
 3. [Future Scope](#Future-Scope)
 4. [Acknowledgments](#Acknowledgments)
+5. [Author](#Author)
           
           
 
