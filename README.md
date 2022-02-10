@@ -5,6 +5,7 @@ A 130 nM CMOS low-dropout (LDO) Voltage Regulator is proposed in this work for b
 
 1. [Introduction](#Introduction)
 2. [Methodology](#Methodology)
+    -LDO Schematic(#LDO Schematic)  
 
 
 
@@ -12,9 +13,9 @@ A 130 nM CMOS low-dropout (LDO) Voltage Regulator is proposed in this work for b
 ## Introduction
 The industry of battery-operated portable measurement instruments is pushing towards complete System-on-Chip (SoC) solutions, integrating in a single die the actuation system, the read-out electronics and an efficient power management system to prolong battery life cycle and operating time. In such typically single-cell and two-cell battery applications, low dropout regulators (LDO) are essential core blocks in the power management unit, that provide a stable, noise-free and accurate and load-independent output voltage Vout from the battery voltage VBAT. 
 
-Fig. 1 shows the classical topology of a CMOS LDO regulator. 
 
 ![LDO_BlockDiagram JPG](https://user-images.githubusercontent.com/99383442/153451601-d845bbcd-10ef-410f-a578-f18d907baaf8.png)
+                 Fig. 1 Classical topology of a CMOS LDO regulator. 
 
 
 
@@ -24,6 +25,12 @@ It consists of a voltage reference Vref; an error amplifier (EA); a PMOS pass tr
                                Vout = [1+ Rfb1/Rfb2] Vref
 
 Conventional LDOs use an off-chip capacitor in the μF range, both to guarantee stability and to minimize output voltage variations in the transient response. Besides, to prolong the battery cycle, operation with low quiescent current is necessary. However, a low quiescent current unavoidably slows the LDO transient responses, dominated by the slew-rate characteristic at the gate of the pass transistorv
+
+## Methodology
+
+This design of LDO is developed using e-CAD tool e-Sim 2.1. eSim is an open source EDA tool for circuit design, simulation, analysis and PCB design. It is an integrated tool built using open source softwares such as KiCad (http://www.kicad-pcb.org), Ngspice (http://ngspice.sourceforge.net) and GHDL (http://ghdl.free.fr). eSim source is released under GNU General Public License.
+
+
 
 
 
