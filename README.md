@@ -22,6 +22,8 @@ The industry of battery-operated portable measurement instruments is pushing tow
 
 
 ![LDO_BlockDiagram JPG](https://user-images.githubusercontent.com/99383442/153451601-d845bbcd-10ef-410f-a578-f18d907baaf8.png)
+
+
                  Fig. 1 Classical topology of a CMOS LDO regulator. 
 
 
