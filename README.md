@@ -52,7 +52,7 @@ This design of LDO is developed using e-CAD tool e-Sim 2.1. eSim is an open sour
 ![Vin_vs_Vout](https://user-images.githubusercontent.com/99383442/153451013-f57f217b-5ede-4310-97c2-ffde6243e2a2.JPG)
 
 ## Future Scope
-The above design of LDO is amde in such way that, the Vout is stable with Vin range voltage 2.3V to 2.6V and Voltage is drop is upto 0.4V.
+The above design of LDO is made in such way that, the Vout is stable with Vin range voltage 2.3V to 2.6V and Voltage is drop is upto 0.4V.
 In future this design can be optimized for large range of Vin and drop should be very less.
 
 
