@@ -13,17 +13,12 @@ A 130 nM CMOS low-dropout (LDO) Voltage Regulator is proposed in this work for b
 5. [Author](#Author)
           
           
-
-
-
-
 ## Introduction
 The industry of battery-operated portable measurement instruments is pushing towards complete System-on-Chip (SoC) solutions, integrating in a single die the actuation system, the read-out electronics and an efficient power management system to prolong battery life cycle and operating time. In such typically single-cell and two-cell battery applications, low dropout regulators (LDO) are essential core blocks in the power management unit, that provide a stable, noise-free and accurate and load-independent output voltage Vout from the battery voltage VBAT. 
 
 
 ![LDO_BlockDiagram JPG](https://user-images.githubusercontent.com/99383442/153451601-d845bbcd-10ef-410f-a578-f18d907baaf8.png)
-
-                 Fig. 1 Classical topology of a CMOS LDO regulator. 
+                Fig. 1 Classical topology of a CMOS LDO regulator. 
 
 
 
