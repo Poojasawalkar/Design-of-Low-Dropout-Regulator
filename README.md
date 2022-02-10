@@ -8,6 +8,8 @@ A 130 nM CMOS low-dropout (LDO) Voltage Regulator is proposed in this work for b
     - [LDO Schematic](#LDO-Schematic)
     - [Simulation Results](#Simulation-Results)
     - [Vin vs Vout waveforms](#Vin-vs-Vout-waveforms)
+3. [Future Scope](#Future-Scope)
+4. [Acknowledgments](#Acknowledgments)
           
           
 
@@ -51,6 +53,19 @@ This design of LDO is developed using e-CAD tool e-Sim 2.1. eSim is an open sour
 2. Below waveform shows DC analysis and results of Vin vs Vout
 
 ![Vin_vs_Vout](https://user-images.githubusercontent.com/99383442/153451013-f57f217b-5ede-4310-97c2-ffde6243e2a2.JPG)
+
+## Future Scope
+The above design of LDO is amde in such way that, the Vout is stable with Vin range voltage 2.3V to 2.6V and Voltage is drop is upto 0.4V.
+In future this design can be optimized for large range of Vin and drop should be very less.
+
+
+## Acknowledgments
+
+Kunal Ghosh, Co-founder, VSD Corp. Pvt. Ltd. - kunalpghosh@gmail.com
+
+## Author 
+Pooja Sawalkar 
+
 
 
 
