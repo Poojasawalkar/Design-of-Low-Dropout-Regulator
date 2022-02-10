@@ -40,19 +40,15 @@ This design of LDO is developed using e-CAD tool e-Sim 2.1. eSim is an open sour
 ![LDO_Schematic](https://user-images.githubusercontent.com/99383442/153450975-fdee7b1c-4838-4d6b-93e3-c7b2f2cf3481.JPG)
 
 
+## Simulation Results
 
-
-
-![Vin_vs_Vout](https://user-images.githubusercontent.com/99383442/153451013-f57f217b-5ede-4310-97c2-ffde6243e2a2.JPG)
-
+1. Below waveform shows Trancient analysis and results of Vin vs Vout
 
 ![Vin_vs_Vout_1](https://user-images.githubusercontent.com/99383442/153451033-dfc5520d-1002-4338-9545-035f22e5f22a.JPG)
 
+2. Below waveform shows DC analysis and results of Vin vs Vout
 
-
-
-## Methodology 
-
+![Vin_vs_Vout](https://user-images.githubusercontent.com/99383442/153451013-f57f217b-5ede-4310-97c2-ffde6243e2a2.JPG)
 
 
 
