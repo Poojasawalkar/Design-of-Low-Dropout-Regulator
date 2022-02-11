@@ -64,7 +64,7 @@ Huang, Member, IEEE, Ying-Ting Ma, and Wei-Chen Lia,  IEEE TRANSACTIONS ON VERY 
 
 ## Acknowledgments
 
-Kunal Ghosh, Co-founder, VSD Corp. Pvt. Ltd. - kunalpghosh@gmail.com
+Kunal Ghosh, Founder, VSD Corp. Pvt. Ltd. - kunalpghosh@gmail.com
 
 ## Author 
 Pooja Sawalkar 
