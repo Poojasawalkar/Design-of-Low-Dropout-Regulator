@@ -67,7 +67,7 @@ Huang, Member, IEEE, Ying-Ting Ma, and Wei-Chen Lia,  IEEE TRANSACTIONS ON VERY 
 Kunal Ghosh, Founder, VSD Corp. Pvt. Ltd. - kunalpghosh@gmail.com
 
 ## Author 
-Pooja Sawalkar B.E. Electronics and Telecommunication.
+Pooja Sawalkar [ B.E. Electronics and Telecommunication]
 
 
 
